@@ -3,6 +3,8 @@
  A new Flutter project.Its a simple calculator from some operations with a beautiful UI.
  
  I have also used a flutter package: math_expression 
+ 
+ ![Calculator ss](https://user-images.githubusercontent.com/101456852/175779633-bcc99e6f-389d-46d7-9324-7a7e8a7d3cbc.jpeg)
 
 ## Getting Started
 
