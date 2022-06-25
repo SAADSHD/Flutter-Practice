@@ -34,7 +34,7 @@ class button extends StatelessWidget {
                 overlayColor: MaterialStateColor.resolveWith((states) => Colors.black12),
               ),
               onPressed: () {
-                onPress;
+                onPress(text);
               },
               child: Text(text,
               style: TextStyle(
