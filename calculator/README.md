@@ -1,6 +1,8 @@
 # calculator
 
-A new Flutter project.
+ A new Flutter project.Its a simple calculator from some operations with a beautiful UI.
+ 
+ I have also used a flutter package: math_expression 
 
 ## Getting Started
 
